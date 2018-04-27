@@ -1,0 +1,30 @@
+# site title
+title:GXC的技术博客
+
+# user name or organization name
+user:maczhis
+
+# issue repository
+repository:
+
+# multi-author
+authors:gxc
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token:8#4063a14b275515e0e70b393508e07d848f9cbb3
+
+# posts per page
+perpage:10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
